@@ -1,0 +1,110 @@
+[
+  {
+    "id": "84319",
+    "title": "Unable to log into account",
+    "description": "Customer is having trouble logging into their account after recent password change.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "In Progress",
+    "date": "2025-09-28"
+  },
+  {
+    "id": "10572",
+    "title": "Refund not processed",
+    "description": "Customer has requested a refund for an order but has not received any update.",
+    "customer": "Jane Smith",
+    "priority": "High",
+    "status": "Open",
+    "date": "2025-09-22"
+  },
+  {
+    "id": "59248",
+    "title": "Missing order items",
+    "description": "Customer received their order but one item is missing from the package.",
+    "customer": "Michael Brown",
+    "priority": "Medium",
+    "status": "In Progress",
+    "date": "2025-09-25"
+  },
+  {
+    "id": "37106",
+    "title": "Shipping delay",
+    "description": "Customer’s order has not been shipped on the promised date. Needs update.",
+    "customer": "Emily Clark",
+    "priority": "Medium",
+    "status": "Open",
+    "date": "2025-09-27"
+  },
+  {
+    "id": "91853",
+    "title": "Broken product received",
+    "description": "Customer received a damaged item and wants a replacement.",
+    "customer": "David Wilson",
+    "priority": "High",
+    "status": "In Progress",
+    "date": "2025-09-19"
+  },
+  {
+    "id": "46027",
+    "title": "Account security concern",
+    "description": "Customer reports unauthorized access to their account.",
+    "customer": "Sarah Adams",
+    "priority": "High",
+    "status": "Open",
+    "date": "2025-09-29"
+  },
+  {
+    "id": "22934",
+    "title": "Subscription cancellation",
+    "description": "Customer wants to cancel their subscription but is facing issues with the process.",
+    "customer": "Chris Martin",
+    "priority": "Medium",
+    "status": "Open",
+    "date": "2025-09-17"
+  },
+  {
+    "id": "70681",
+    "title": "Change of shipping address",
+    "description": "Customer needs to update their shipping address before the order is dispatched.",
+    "customer": "Lisa White",
+    "priority": "Low",
+    "status": "In Progress",
+    "date": "2025-09-30"
+  },
+  {
+    "id": "63490",
+    "title": "Discount code not working",
+    "description": "Customer is unable to apply a discount code during checkout.",
+    "customer": "Oscar Lee",
+    "priority": "Medium",
+    "status": "Open",
+    "date": "2025-09-26"
+  },
+  {
+    "id": "18755",
+    "title": "Order status not updated",
+    "description": "Customer’s order status still shows as 'processing' even though it was shipped.",
+    "customer": "Natalie Green",
+    "priority": "Medium",
+    "status": "In Progress",
+    "date": "2025-09-21"
+  },
+  {
+    "id": "50362",
+    "title": "Unable to track order",
+    "description": "Customer cannot track their order using the provided tracking number.",
+    "customer": "Paul Harris",
+    "priority": "High",
+    "status": "Open",
+    "date": "2025-09-24"
+  },
+  {
+    "id": "95147",
+    "title": "Product not as described",
+    "description": "Customer received the wrong product, and it does not match the description on the website.",
+    "customer": "Rebecca Taylor",
+    "priority": "High",
+    "status": "In Progress",
+    "date": "2025-09-20"
+  }
+]

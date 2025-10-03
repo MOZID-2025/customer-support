@@ -1,9 +1,14 @@
 import "./App.css";
+import Navbar from "./components/Navbar/Navbar";
+import Hero from "./components/Hero/Hero";
+import Service from "./components/Service/Service";
 
 function App() {
   return (
     <>
-      <h1>Vite + React</h1>
+      <Navbar></Navbar>
+      <Hero></Hero>
+      <Service></Service>
     </>
   );
 }
