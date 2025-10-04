@@ -20,7 +20,6 @@ const Service = ({
   return (
     <div className="bg-gray-50">
       <div className="max-w-[1280px] mx-auto p-4 sm:p-6 lg:p-10 flex flex-col lg:flex-row gap-8">
-        {/* Left Section (Tickets) */}
         <div className="flex-grow lg:w-3/4">
           <h1 className="text-2xl font-bold text-gray-800 mb-6">
             Customer Tickets
@@ -83,7 +82,6 @@ const Service = ({
           </div>
         </div>
 
-        {/* Right Section (Task Status) */}
         <div className="lg:w-1/4 w-full">
           <div className="p-6 rounded-xl bg-gray-50 sticky top-6">
             <div className="mb-4">
@@ -112,7 +110,6 @@ const Service = ({
               )}
             </div>
 
-            {/* Resolved Tasks */}
             <div className="mt-6">
               <h3 className="text-lg font-semibold text-gray-800">
                 Resolved Task

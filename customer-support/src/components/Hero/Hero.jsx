@@ -6,7 +6,6 @@ const Hero = ({ inProgress, resolved }) => {
     <div className="bg-gray-50 py-6">
       <div className="max-w-[1280px] mx-auto px-4">
         <div className="flex flex-col md:flex-row gap-6">
-          {/* In Progress */}
           <div className="w-full md:w-1/2">
             <div
               className="rounded-xl p-6 sm:p-8 text-white shadow-xl 
@@ -26,7 +25,6 @@ const Hero = ({ inProgress, resolved }) => {
             </div>
           </div>
 
-          {/* Resolved */}
           <div className="w-full md:w-1/2">
             <div
               className="rounded-xl p-6 sm:p-8 text-white shadow-xl 

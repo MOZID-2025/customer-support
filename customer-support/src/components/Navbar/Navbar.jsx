@@ -6,12 +6,10 @@ const Navbar = () => {
   return (
     <div className="max-w-[1280px] mx-auto px-4">
       <nav className="flex items-center justify-between py-4 mb-4">
-        {/* Logo */}
         <div className="text-xl font-bold text-gray-800">
           CS — <span>Ticket System</span>
         </div>
 
-        {/* Desktop Menu */}
         <div className="hidden md:flex items-center space-x-6 text-lg">
           <a href="#">Home</a>
           <a href="#">FAQ</a>
@@ -24,7 +22,6 @@ const Navbar = () => {
           </button>
         </div>
 
-        {/* Mobile Menu Button */}
         <div className="md:hidden">
           <button
             onClick={() => setIsOpen(!isOpen)}
@@ -39,7 +36,6 @@ const Navbar = () => {
         </div>
       </nav>
 
-      {/* Mobile Dropdown Menu */}
       {isOpen && (
         <div className="md:hidden bg-gray-100 rounded-lg shadow-md p-4 space-y-4 text-lg">
           <a href="#" className="block">
