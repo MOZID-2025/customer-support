@@ -53,7 +53,7 @@ const Footer = () => {
               <span>@CS — Ticket System</span>
             </li>
             <li className="flex items-center gap-2">
-              <span>@CS — Ticket System</span>
+              <span>@S — Ticket System</span>
             </li>
             <li className="flex items-center gap-2">
               <span>support@cst.com</span>
@@ -62,8 +62,10 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className="border-t border-gray-700 mt-10 pt-6 text-center text-sm text-gray-400">
-        © 2025 CS — Ticket System. All rights reserved.
+      <div className="max-w-[1280px] mx-auto">
+        <div className="border-t border-gray-700 mt-10 pt-6 text-center text-sm text-gray-400">
+          © 2025 CS — Ticket System. All rights reserved.
+        </div>
       </div>
     </footer>
   );
